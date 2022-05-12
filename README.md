@@ -11,7 +11,7 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoSipauba&theme=chartreuse-dark"></p>
 
 <div align="center">
-  <h2>🛠️ Tecnologias com as quais possuo conhecimento</h2>
+  <h2>🛠️ Minha stack</h2>
 
   <h4>Linguagens e ferramentas</h4><br />
   <div style="display: inline_block">
@@ -22,7 +22,7 @@
     <img align="center" alt="Joao-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Joao-FastApi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
     <img align="center" alt="Joao-Eslint" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
-  </div>
+  </div><br />
 
   <h4>Frameworks</h4><br />
   <div style="display: inline_block">
@@ -31,7 +31,7 @@
     <img align="center" alt="Joao-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Joao-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
     <img align="center" alt="Joao-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  </div>
+  </div><br />
 
   <h4>Databases</h4><br />
   <div style="display: inline_block">
@@ -40,7 +40,7 @@
     <img align="center" alt="Joao-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Joao-oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="Joao-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  </div>
+  </div><br />
 
   <h4>Devops</h4> <br />
   <div style="display: inline_block">
@@ -50,18 +50,15 @@
     <img align="center" alt="Joao-Gitlab-CI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
     <img align="center" alt="Joao-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     <img align="center" alt="Joao-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  </div>
+  </div><br />
 
   <h4>IDEs</h4> <br />
   <div style="display: inline_block">
     <img align="center" alt="Joao-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Joao-Pycharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="Joao-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  </div>
+  </div><br />
 </div>
-<br/>
-<br/>
-<br/>
 <br/>
 
 <h2 align="center">🔗 Conecte-se comigo</h2>
