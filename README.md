@@ -1,22 +1,14 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World
+<p align="center"><img src="https://raw.githubusercontent.com/JoaoSipauba/JoaoSipauba/master/header.png"></p>
 
-<div> 
-  <a href="https://www.instagram.com/joaosipauba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-5d52cb?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaosipauz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d00000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-sipauba/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
 &nbsp;
 
-Olá 🖖 me chamo [João Sipauba](https://www.linkedin.com/in/joao-sipauba/) 😄 Sou desenvolvedor fullstack. Atualmente trabalhando na stack React, Node e React Native ⚛️ Além disso, sou estudante de Análise e desenvolvimento de sistemas. Trabalho no setor de desenvolvimento do [GRUPO CEUMA](https://www.extranet.ceuma.br/hotsite/) 🏛️
+<p align="center">Olá 🖖 me chamo <a href="https://www.linkedin.com/in/joao-sipauba/">João Sipauba</a> 😄 Sou desenvolvedor fullstack. Atualmente trabalhando na stack React, Node e React Native ⚛️ Além disso, sou estudante de Análise e desenvolvimento de sistemas. Trabalho no setor de desenvolvimento do <a href="https://www.extranet.ceuma.br/hotsite/">GRUPO CEUMA</a> 🏛️</p>
 
-
-## 👨‍🚀 Um pouco mais sobre mim
-- 👨‍💻 Programador desde os 15 anos
-- 🧑 Atualmente com 20 anos
-- 🥇 Participante da [OBI(Olimpíada Brasileira de Programação)](https://olimpiada.ic.unicamp.br/) na edição de 2018
-- 🖥️ Fascinado por desenvolvimento Mobile
+<p align="center"><b>Visualizações do perfil</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BJoaoSipauba%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSipauba&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=JoaoSipauba&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoSipauba&theme=chartreuse-dark"></p>
 
 ### 🛠️ Tecnologias com as quais possuo conhecimento
 
@@ -64,4 +56,16 @@ Olá 🖖 me chamo [João Sipauba](https://www.linkedin.com/in/joao-sipauba/) �
   <img align="center" alt="Joao-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Joao-Pycharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Joao-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+</div>
+
+<br/>
+
+### 🔗 Conecte-se comigo
+
+<div align="center"> 
+  <a href="https://www.instagram.com/joaosipauba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-5d52cb?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaosipauz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d00000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-sipauba/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
