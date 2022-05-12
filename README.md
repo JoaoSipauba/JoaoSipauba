@@ -43,7 +43,7 @@ Olá 🖖 me chamo [João Sipauba](https://www.linkedin.com/in/joao-sipauba/) �
 - Databases <br />
 <div style="display: inline_block">
   <img align="center" alt="Joao-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Joao-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Joao-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Joao-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Joao-oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Joao-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
@@ -55,7 +55,7 @@ Olá 🖖 me chamo [João Sipauba](https://www.linkedin.com/in/joao-sipauba/) �
   <img align="center" alt="Joao-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Joao-Github-Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Joao-Gitlab-CI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Joao-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Joao-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Joao-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
 </div>
 
